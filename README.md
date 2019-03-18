@@ -1,2 +1,1 @@
-# Icon Preview
-
+# App Icon Preview
